@@ -4,4 +4,6 @@ Task 1  a script that displays a confused smiley "(Ôo)'
 
 Task 2 displays the contents of /etc/passwd file
 
+Task 3 displays the contents of /etc/passwd and /etc/hosts
+
 
