@@ -6,4 +6,6 @@ Task 2 displays the contents of /etc/passwd file
 
 Task 3 displays the contents of /etc/passwd and /etc/hosts
 
+Task 4 displays the last ten lines of /etc/passwd
+
 
